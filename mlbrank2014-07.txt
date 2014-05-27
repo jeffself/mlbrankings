@@ -1,0 +1,31 @@
+Rank                                           Won  Lost  Tied    PF    PA   Rating
+   1 Detroit                                    27    12     0   189   134   52.646
+   2 Oakland                                    28    16     0   235   140   52.123
+   3 San Francisco                              28    17     0   188   161   51.479
+   4 Los Angeles(A)                             24    19     0   214   174   51.163
+   5 Colorado                                   25    20     0   249   198   50.887
+   6 Washington                                 23    20     0   172   169   50.549
+   7 Miami                                      23    22     0   204   184   50.524
+   8 Atlanta                                    23    19     0   135   134   50.497
+   9 Kansas City                                22    21     0   166   163   50.352
+  10 Baltimore                                  22    20     0   167   175   50.328
+  11 Milwaukee                                  27    17     0   169   159   50.316
+  12 Los Angeles(N)                             23    22     0   192   195   50.272
+  13 Seattle                                    21    22     0   178   171   50.214
+  14 Toronto                                    23    22     0   215   208   50.206
+  15 New York(A)                                23    20     0   188   196   50.200
+  16 Minnesota                                  21    21     0   195   208   50.158
+  17 Boston                                     20    23     0   175   187   49.877
+  18 San Diego                                  21    24     0   139   162   49.807
+  19 New York(N)                                20    23     0   173   182   49.734
+  20 Texas                                      21    23     0   175   208   49.729
+  21 Chicago(A)                                 21    24     0   219   230   49.589
+  22 St. Louis                                  23    21     0   168   157   49.552
+  23 Cleveland                                  19    25     0   180   209   49.440
+  24 Philadelphia                               19    22     0   164   185   49.250
+  25 Cincinnati                                 19    23     0   150   154   49.072
+  26 Tampa Bay                                  19    26     0   179   201   49.008
+  27 Houston                                    16    28     0   161   214   48.761
+  28 Pittsburgh                                 18    25     0   167   185   48.395
+  29 Arizona                                    18    28     0   183   243   48.383
+  30 Chicago(N)                                 15    27     0   166   169   47.678
