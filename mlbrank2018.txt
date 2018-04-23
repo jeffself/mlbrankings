@@ -1,31 +1,31 @@
 Rank                                           Won  Lost  Tied    PF    PA   Rating
-   1 NEW YORK(N)                                12     2     0    65    43  105.183
-   2 ARIZONA                                    11     4     0    77    51  103.311
-   3 LOS ANGELES(A)                             13     3     0   103    55  102.464
-   4 ST. LOUIS                                   9     7     0    74    56  102.450
-   5 ATLANTA                                     8     6     0    82    56  102.247
-   6 BOSTON                                     13     2     0    89    47  102.244
-   7 MILWAUKEE                                   8     8     0    56    69  101.512
-   8 PITTSBURGH                                 11     4     0    87    68  101.430
-   9 MINNESOTA                                   7     4     0    51    37  101.425
-  10 PHILADELPHIA                                9     5     0    79    58  101.395
-  11 COLORADO                                    9     8     0    66    76  101.234
-  12 WASHINGTON                                  7     9     0    67    71  101.042
-  13 HOUSTON                                    10     6     0    67    49  100.816
-  14 CHICAGO(N)                                  7     7     0    72    59  100.586
-  15 SEATTLE                                     8     5     0    62    62   99.789
-  16 SAN DIEGO                                   7    10     0    66    69   99.693
-  17 CLEVELAND                                   8     6     0    49    45   99.557
-  18 TORONTO                                     9     5     0    72    53   99.484
-  19 LOS ANGELES(N)                              5     9     0    54    62   99.448
-  20 MIAMI                                       4    11     0    49    84   99.160
-  21 OAKLAND                                     6    10     0    74    85   99.077
-  22 SAN FRANCISCO                               6     9     0    46    61   99.023
-  23 NEW YORK(A)                                 7     7     0    77    77   98.948
-  24 TEXAS                                       6    11     0    55    86   98.617
-  25 BALTIMORE                                   5    11     0    51    86   97.852
-  26 CINCINNATI                                  2    13     0    44    92   96.830
-  27 TAMPA BAY                                   3    12     0    48    81   96.330
-  28 DETROIT                                     4     9     0    49    58   96.180
-  29 KANSAS CITY                                 3    10     0    39    59   95.978
-  30 CHICAGO(A)                                  4     8     0    48    63   95.216
+   1 NEW YORK(N)                                14     6     0    96    80  104.169
+   2 ARIZONA                                    15     6     0    95    64  104.165
+   3 ATLANTA                                    12     8     0   111    77  103.816
+   4 PHILADELPHIA                               14     7     0   106    73  102.912
+   5 BOSTON                                     17     4     0   124    60  102.713
+   6 ST. LOUIS                                  13     8     0   100    74  102.663
+   7 LOS ANGELES(N)                             10    10     0    94    80  102.082
+   8 WASHINGTON                                 10    12     0    93   100  102.027
+   9 MILWAUKEE                                  14     9     0    94    89  101.987
+  10 COLORADO                                   12    11     0    93   115  101.687
+  11 CHICAGO(N)                                 10     9     0   110    86  101.206
+  12 SAN FRANCISCO                               9    12     0    66    75  100.885
+  13 LOS ANGELES(A)                             14     8     0   113    97  100.624
+  14 HOUSTON                                    16     7     0   115    57  100.597
+  15 PITTSBURGH                                 12    10     0   104    96  100.098
+  16 SAN DIEGO                                   8    15     0    84   110  100.019
+  17 OAKLAND                                    11    11     0   114   107   99.575
+  18 NEW YORK(A)                                11     9     0   113   100   99.252
+  19 SEATTLE                                    11     9     0    87    99   98.900
+  20 CLEVELAND                                  11     8     0    68    54   98.728
+  21 MINNESOTA                                   8     8     0    68    70   98.612
+  22 TORONTO                                    13     8     0   116    88   98.524
+  23 MIAMI                                       5    16     0    69   127   98.497
+  24 TAMPA BAY                                   8    13     0    88   108   98.358
+  25 TEXAS                                       8    15     0    84   119   97.834
+  26 CINCINNATI                                  3    18     0    61   116   97.335
+  27 DETROIT                                     9    11     0    94    90   96.178
+  28 BALTIMORE                                   6    16     0    72   121   96.157
+  29 KANSAS CITY                                 5    15     0    68   112   94.849
+  30 CHICAGO(A)                                  4    14     0    64   120   94.224
