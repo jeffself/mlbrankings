@@ -1,0 +1,5 @@
+Rank                                           Won  Lost  Tied    PF    PA   Rating
+   1 LOS ANGELES(N)                              1     0     0     8     1  107.185
+   2 NEW YORK(A)                                 1     0     0     4     1  106.012
+   3 WASHINGTON                                  0     1     0     1     4   93.988
+   4 SAN FRANCISCO                               0     1     0     1     8   92.815
